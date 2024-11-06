@@ -71,7 +71,7 @@ Se você encontrar algum problema ou tiver dúvidas, sinta-se à vontade para ab
 
 ## Contribuições  
 
-Contribuições são bem-vindas! Sinta-se à vontade para contribuir com novas funcionalidade para o SmartBite.AI e para abrir problemas (issues) ou enviar pull requests com melhorias! Toda ajuda é bem-vinda.    
+Contribuições são bem-vindas! Sinta-se à vontade para contribuir com novas funcionalidade para o Removedor de fundo e para abrir problemas (issues) ou enviar pull requests com melhorias! Toda ajuda é bem-vinda.    
 
 ## Autores  
  
